@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/colorPrimary"
+    tools:context=".LanguageActivity"
+    tools:showIn="@layout/app_bar_language">
+
+    <Button
+        android:id="@+id/ind_lang_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="setInd"
+        android:layout_gravity="start"
+        android:text="@string/ind"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/eng_lang_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="setEng"
+        android:layout_gravity="start"
+        android:text="@string/eng"
+        android:textSize="16sp"/>
+
+</LinearLayout>

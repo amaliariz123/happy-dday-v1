@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Happy d\'Day</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="setting">SETTING</string>
+    <string name="home">Home</string>
+    <string name="reminder">Reminder</string>
+    <string name="notification">Notification</string>
+    <string name="language">Language</string>
+    <string name="volume">Volume</string>
+    <string name="about">About</string>
+    <string name="about_app">Happy D\'day is an application for simulating a candle blowing on a virtual birthday cake, which can regulate the number of candles according to age and to revive the birthday of a loved one.</string>
+    <string name="ind">Indonesian</string>
+    <string name="eng">English</string>
+    <string name="turn_on_your_notification">Turn on your notification</string>
+    <string name="no_reminder">Click on the button to begin creating your reminder</string>
+    <string name="happy_d_day_2019">© Happy d\'Day 2019</string>
+
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_volume">Volume</string>
+    <string name="title_activity_language">Language</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_reminder">Reminder</string>
+    <string name="set_volume">Volume : </string>
+</resources>

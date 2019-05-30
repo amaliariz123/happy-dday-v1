@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy d\'Day</string>
+    <string name="about">Tentang</string>
+    <string name="about_app">Happy D\\\'day adalah aplikasi untuk mensimulasikan meniup lilin pada kue ulang tahun virtual, yang dapat mengatur jumlah lilin sesuai usia dan untuk menghidupkan kembali ulang tahun orang yang dicintai.</string>
+    <string name="eng">Bahasa Inggris</string>
+    <string name="home">Beranda</string>
+    <string name="ind">Bahasa Indonesia</string>
+    <string name="language">Bahasa</string>
+    <string name="notification">Notifikasi</string>
+    <string name="reminder">Pengingat</string>
+    <string name="setting">PENGATURAN</string>
+    <string name="title_activity_about">Tentang</string>
+    <string name="title_activity_language">Bahasa</string>
+    <string name="title_activity_volume">Volume</string>
+    <string name="volume">Volume</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="title_activity_notification">Notifikasi</string>
+    <string name="turn_on_your_notification">Nyalakan pemberitahuan</string>
+    <string name="title_activity_reminder">Pengingat</string>
+    <string name="no_reminder">Klik tombol untuk membuat reminder</string>
+    <string name="happy_d_day_2019">© Happy d\'Day 2019</string>
+</resources>
